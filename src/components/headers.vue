@@ -10,6 +10,9 @@
             <el-tab-pane label="购物车" name="2">
                 <cart></cart>
             </el-tab-pane>
+            <el-tab-pane label="购物车" name="2">
+                111
+            </el-tab-pane>
         </el-tabs>
     </div>
 </template>
