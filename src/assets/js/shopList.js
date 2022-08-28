@@ -1,0 +1,36 @@
+const shopList = [{
+    id:1,
+    name:'TCL彩电',
+    shopImage:'https://ecmb.bdimg.com/tam-ogel/622451525_-487519050_1920_1440.jpg',
+    number:1,
+    price:2000
+},
+{
+    id:2,
+    name:'机顶盒',
+    shopImage:'https://img2.baidu.com/it/u=1757909364,372560434&fm=253&fmt=auto&app=138&f=JPEG?w=350&h=350',
+    number:1,
+    price:200
+},
+{
+    id:3,
+    name:'海尔冰箱',
+    shopImage:'https://img0.baidu.com/it/u=4170661164,2782372163&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500',
+    number:1,
+    price:1500
+},
+{
+    id:4,
+    name:'小米手机',
+    shopImage:'https://ecmb.bdimg.com/tam-ogel/-1033474843_1098267474_1920_1440.jpg',
+    number:1,
+    price:4000
+},
+{
+    id:5,
+    name:'PPTV电视',
+    shopImage:'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fproduct%2F6192%2F619255%2F45qian_m2.jpg&refer=http%3A%2F%2Fimg.pconline.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659939678&t=8e7d0154b98363274441e787c37571b1',
+    number:1,
+    price:800
+},]
+export default shopList
